@@ -1,0 +1,1 @@
+loan approval prediction project using machine learning involves training a model on historical loan data to predict whether future loan applications will be approved or denied. This involves preprocessing the data, selecting relevant features, training and evaluating various machine learning algorithms, and deploying the best-performing model for real-time predictions
